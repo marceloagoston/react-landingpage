@@ -19,7 +19,7 @@ const About = () => {
             
 
             <p>
-                En la actualidad trabajo mi propia startup de desarrollo de Software llamada <a href="https://www.cognitis.com.ar/" target="_blank" className="negrita">Congnitis Software House </a> 
+                En la actualidad trabajo mi propia startup de desarrollo de Software llamada <a href="https://www.cognitis.com.ar/" target="_blank" rel="noreferrer" className="negrita">Congnitis Software House </a> 
                 donde junto con mis colegas, socios y amigos, desarrollamos Software de calidad para distintas compañias de la región y el mundo.
             </p>
 
@@ -33,7 +33,7 @@ const About = () => {
             
             <p>Aunque he realizado trabajos por hobby o para la Universidad en otros lenguajes como C, PHP, Wordpress, entre otros.</p>
 
-            <p>Ademas me gusta compartir mi conocimiento y actualmente lo hago en mi blog llamado <a href="https://mateandcode.blogspot.com/" target="_blank" className="negrita">Mate and Code</a>.</p>
+            <p>Ademas me gusta compartir mi conocimiento y actualmente lo hago en mi blog llamado <a href="https://mateandcode.blogspot.com/" target="_blank" rel="noreferrer" className="negrita">Mate and Code</a>.</p>
 
             <p>Además de <span className='italica negrita'>codear</span>, me gustan los video juegos, los deportes -especialmente el basquet y la formula 1- , jugar juegos de rol con mis amigos, pasar tiempo en familia, cocinar y hacer modelismo de miniaturas (aviones, autos, etc.)</p>
 
